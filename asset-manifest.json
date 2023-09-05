@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/a-frame-badami/static/css/main.751ff7ff.css",
+    "main.js": "/a-frame-badami/static/js/main.e1c8d054.js",
+    "static/js/787.0769986b.chunk.js": "/a-frame-badami/static/js/787.0769986b.chunk.js",
+    "static/media/360badami.jpg": "/a-frame-badami/static/media/360badami.2799e230a58570b1084d.jpg",
+    "index.html": "/a-frame-badami/index.html",
+    "main.751ff7ff.css.map": "/a-frame-badami/static/css/main.751ff7ff.css.map",
+    "main.e1c8d054.js.map": "/a-frame-badami/static/js/main.e1c8d054.js.map",
+    "787.0769986b.chunk.js.map": "/a-frame-badami/static/js/787.0769986b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.751ff7ff.css",
+    "static/js/main.e1c8d054.js"
+  ]
+}
