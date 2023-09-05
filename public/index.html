@@ -25,6 +25,17 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-event-set-component@5.x.x/dist/aframe-event-set-component.min.js"></script>
+    <script id="plane" type="text/html">
+      <a-entity
+        class="link"
+        geometry="primitive: plane;"
+        material="src: ${thumb}"
+        event-set__mouseenter="scale: 1.2 1.2 1"
+        event-set__mouseleave="scale: 1 1 1"
+      ></a-entity>
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
